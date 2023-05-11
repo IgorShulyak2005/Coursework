@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+
+    <product>
+        <category>audiorecord</category>
+        <name>Микрофон Shure SM7B</name>
+        <image>/source/Shure_SM7B.webp</image>
+        <alt>Shure SM7B</alt>
+        <price>1399</price>
+    </product>
+
+    <product>
+        <category>audiotech</category>
+        <name>Наушники Sennheiser Momentum Wireless M3 AEBT XL</name>
+        <image>/source/Sennheiser+Momentum3.jpg</image>
+        <alt>Sennheiser Momentum3"</alt>
+        <price>1199</price>
+    </product>
+
+    <product>
+        <category>videotech</category>
+        <name>Беззеркальный фотоаппарат Sony Alpha a6000</name>
+        <image>/source/SonyA6000.jpg</image>
+        <alt>Sony A6000</alt>
+        <price>1799</price>
+    </product>
+
+</products>
